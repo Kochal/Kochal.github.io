@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R & climate modelling
-permalink: /R/
+permalink: /Rclim/
 ---
 
 This is the R and climate modelling output page.
