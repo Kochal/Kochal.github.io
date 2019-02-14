@@ -4,5 +4,6 @@
 CONTENT!
 layout: page
 ---
-# This is my index page
+This is my index page
+
 Welcome to my index. 
