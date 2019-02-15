@@ -61,3 +61,5 @@ Teaching
 Service and leadership
 ======
 * Steering committee member of the [PAGES Early Career Network](http://www.pastglobalchanges.org/ecn/intro)
+
+You can download my CV [here](https://kochal.github.io/files/CV.pdf).
