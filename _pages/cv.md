@@ -47,6 +47,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=tadZHGwAAAAJ&hl=en)
   
 Talks
 ======
