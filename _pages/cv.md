@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a pdf of my CV [here](https://kochal.github.io/files/CV.pdf).
+
 Education
 ======
 * Ph.D in Climate Science, University College London, 2019
@@ -62,4 +64,3 @@ Service and leadership
 ======
 * Steering committee member of the [PAGES Early Career Network](http://www.pastglobalchanges.org/ecn/intro)
 
-You can download my CV [here](https://kochal.github.io/files/CV.pdf).
