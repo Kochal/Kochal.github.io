@@ -21,7 +21,7 @@ Work experience
   * [Willis Tower Watson](https://www.willistowerswatson.com/)
   * Duties included: Catastrophe model research and validation
 
-*  2013-2014: GIS Analyst
+* 2013-2014: GIS Analyst
   * [Centre for Fisheries and Aquaculture Science (CEFAS)](https://www.cefas.co.uk/)
   * Duties included: Climate change impacts on the marine environment; Human impacts on the seabed
  
