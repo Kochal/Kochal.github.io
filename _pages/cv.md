@@ -1,40 +1,44 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CV, resume & publications"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Climate Science, University College London, 2019
+* M.Sc. in Global Environmental Change, Kings College London, 2012
+* B.Sc. in Physical Geography, Philipps University Marburg, Germany, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Internship
+  * (Willis Tower Watson)[https://www.willistowerswatson.com/]
+  * Duties included: Catastrophe model research and validation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  2013-2014: GIS Analyst
+  * (Centre for Fisheries and Aquaculture Science (CEFAS))[https://www.cefas.co.uk/]
+  * Duties included: Climate change impacts on the marine environment; Human impacts on the seabed
+ 
+* Summer 2011: Internship
+  * (Atmosfair)[https://www.atmosfair.de/en/]
+  * Research for carbon offsetting projects
+  
+* Winter 2010: Internship
+  * (Climate Alliance)[https://www.climatealliance.org/home.html]
+  * Research on Clean Developmen Mechanis and carbon offsetting schemes
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R; Python; Fortran
+* Familiar with running UK Hadley Centre models & CESM
+* Analysing large datasets/climate model output
+* GIS (ArcGIS & QGIS)
 
 Publications
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Steering committee member of the (PAGES Early Career Network)[http://www.pastglobalchanges.org/ecn/intro]
