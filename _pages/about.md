@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. [Here](https://kochal.github.io/year-archive/) you can find my blog and [here](https://academicpages.github.io/resume/) you can look at my resume, CV and publications. 
+Welcome to my website. [Here](https://kochal.github.io/year-archive/) you can find my blog and [here](https://kochal.github.io/resume/) you can look at my resume, CV and publications. 
