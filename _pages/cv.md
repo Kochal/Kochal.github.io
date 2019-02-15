@@ -18,19 +18,19 @@ Education
 Work experience
 ======
 * Spring 2017: Internship
-  * (Willis Tower Watson)[https://www.willistowerswatson.com/]
+  * [Willis Tower Watson](https://www.willistowerswatson.com/)
   * Duties included: Catastrophe model research and validation
 
 *  2013-2014: GIS Analyst
-  * (Centre for Fisheries and Aquaculture Science (CEFAS))[https://www.cefas.co.uk/]
+  * [Centre for Fisheries and Aquaculture Science (CEFAS)](https://www.cefas.co.uk/)
   * Duties included: Climate change impacts on the marine environment; Human impacts on the seabed
  
 * Summer 2011: Internship
-  * (Atmosfair)[https://www.atmosfair.de/en/]
+  * [Atmosfair](https://www.atmosfair.de/en/)
   * Research for carbon offsetting projects
   
 * Winter 2010: Internship
-  * (Climate Alliance)[https://www.climatealliance.org/home.html]
+  * [Climate Alliance](https://www.climatealliance.org/home.html)
   * Research on Clean Developmen Mechanis and carbon offsetting schemes
   
 Skills
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Steering committee member of the (PAGES Early Career Network)[http://www.pastglobalchanges.org/ecn/intro]
+* Steering committee member of the [PAGES Early Career Network](http://www.pastglobalchanges.org/ecn/intro)
